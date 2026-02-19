@@ -2,6 +2,12 @@
 
 An AI-powered stock price prediction dashboard that uses machine learning to forecast stock movements for the next 3 days. Built with XGBoost, Finnhub API, and Streamlit.
 
+## 📚 Documentation
+
+- **[Quick Start Guide](QUICKSTART.md)** - Get started in 5 minutes
+- **[Full Documentation](DOCS.md)** - Complete documentation index
+- **[Contributing Guidelines](CONTRIBUTING.md)** - How to contribute
+
 ## 🌟 Features
 
 - **Real-time Stock Data**: Fetches live stock data from Finnhub API
@@ -28,6 +34,13 @@ An AI-powered stock price prediction dashboard that uses machine learning to for
 - pip package manager
 
 ### Setup Instructions
+
+**Option 1: Quick Setup (Linux/Mac)**
+```bash
+./setup.sh
+```
+
+**Option 2: Manual Setup (All Platforms)**
 
 1. **Clone the repository**
    ```bash
