@@ -7,6 +7,7 @@ An AI-powered stock price prediction dashboard that uses machine learning to for
 - **[Quick Start Guide](QUICKSTART.md)** - Get started in 5 minutes
 - **[Full Documentation](DOCS.md)** - Complete documentation index
 - **[Contributing Guidelines](CONTRIBUTING.md)** - How to contribute
+- **[Changelog](CHANGELOG.md)** - Version history and release notes
 
 ## 🌟 Features
 
